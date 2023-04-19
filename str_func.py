@@ -1,5 +1,5 @@
 def up_string(string):
-    """Делаеи все буквы в строке заглавными"""
+    """Делает все буквы в строке заглавными"""
     new_string = string.upper()
     return new_string
 
