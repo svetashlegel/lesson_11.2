@@ -11,4 +11,5 @@ def up_first_letter(string):
 
 
 def print_hello(username):
+    """Здоровается с пользователем"""
     return f"Hello, {username}"
